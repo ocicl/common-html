@@ -1,0 +1,10 @@
+* common-html
+
+An HTML parser/emitter for CommonDoc.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/CommonDoc/common-html.git   |
+| commit  | 96987bd  |
+| systems | common-html |
+|---------+-------------------------------------------|
+
